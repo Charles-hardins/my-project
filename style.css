@@ -1,0 +1,65 @@
+body{
+    background-color: blue;
+    color: black;
+}
+a{
+    text-decoration: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 20px;
+    
+}
+.header{
+    background-color: brown;
+    height: 50px;
+    padding: 10px;
+}
+.header section{
+    margin-left: 30%;
+}
+.two{
+    border: 2px solid white;
+    margin-top: 10px;
+    width: 45%;
+    margin-left: 10px;
+    height: auto;
+}
+.two section{
+    
+    width: 90%;
+    height: auto;
+    padding: 20px;
+    border: 1px solid green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+.div{
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+    
+    
+}
+.one{
+    width: 25%;
+    height: auto;
+    padding: 10px;
+    border: 2px solid lawngreen;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.three{
+    width: 25%;
+    height: auto;
+    padding: 10px;
+    border: 2px solid lawngreen;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
